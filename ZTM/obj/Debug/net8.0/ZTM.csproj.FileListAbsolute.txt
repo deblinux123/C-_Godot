@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/ZTM/bin/Debug/net8.0/ZTM
+/home/toor/Desktop/C-_Godot/ZTM/bin/Debug/net8.0/ZTM.deps.json
+/home/toor/Desktop/C-_Godot/ZTM/bin/Debug/net8.0/ZTM.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/ZTM/bin/Debug/net8.0/ZTM.dll
+/home/toor/Desktop/C-_Godot/ZTM/bin/Debug/net8.0/ZTM.pdb
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ZTM.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ZTM.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ZTM.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ZTM.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ZTM.sourcelink.json
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ZTM.dll
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/refint/ZTM.dll
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ZTM.pdb
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ZTM.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/ZTM/obj/Debug/net8.0/ref/ZTM.dll
