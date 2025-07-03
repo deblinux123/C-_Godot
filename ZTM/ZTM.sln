@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTM", "ZTM.csproj", "{236F226B-8720-487C-8F0D-FF47ECF7A293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236F226B-8720-487C-8F0D-FF47ECF7A293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236F226B-8720-487C-8F0D-FF47ECF7A293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236F226B-8720-487C-8F0D-FF47ECF7A293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236F226B-8720-487C-8F0D-FF47ECF7A293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF9DBCEB-D3AD-4768-BB2C-89F2D8C50E5A}
+	EndGlobalSection
+EndGlobal

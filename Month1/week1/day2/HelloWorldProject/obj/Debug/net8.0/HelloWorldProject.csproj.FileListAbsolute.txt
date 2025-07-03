@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/bin/Debug/net8.0/HelloWorldProject
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/bin/Debug/net8.0/HelloWorldProject.deps.json
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/bin/Debug/net8.0/HelloWorldProject.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/bin/Debug/net8.0/HelloWorldProject.dll
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/bin/Debug/net8.0/HelloWorldProject.pdb
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/HelloWorldProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/HelloWorldProject.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/HelloWorldProject.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/HelloWorldProject.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/HelloWorldProject.sourcelink.json
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/HelloWorldProject.dll
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/refint/HelloWorldProject.dll
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/HelloWorldProject.pdb
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/HelloWorldProject.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/Month1/week1/day2/HelloWorldProject/obj/Debug/net8.0/ref/HelloWorldProject.dll
