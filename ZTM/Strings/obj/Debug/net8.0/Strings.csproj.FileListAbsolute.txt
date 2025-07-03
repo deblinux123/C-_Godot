@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/ZTM/Strings/bin/Debug/net8.0/Strings
+/home/toor/Desktop/C-_Godot/ZTM/Strings/bin/Debug/net8.0/Strings.deps.json
+/home/toor/Desktop/C-_Godot/ZTM/Strings/bin/Debug/net8.0/Strings.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/ZTM/Strings/bin/Debug/net8.0/Strings.dll
+/home/toor/Desktop/C-_Godot/ZTM/Strings/bin/Debug/net8.0/Strings.pdb
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/Strings.sourcelink.json
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/Strings.dll
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/refint/Strings.dll
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/Strings.pdb
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/ZTM/Strings/obj/Debug/net8.0/ref/Strings.dll

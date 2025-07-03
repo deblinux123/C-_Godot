@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ConsolInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ConsolInput.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ConsolInput.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ConsolInput.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ConsolInput.sourcelink.json
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/bin/Debug/net8.0/ConsolInput
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/bin/Debug/net8.0/ConsolInput.deps.json
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/bin/Debug/net8.0/ConsolInput.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/bin/Debug/net8.0/ConsolInput.dll
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/bin/Debug/net8.0/ConsolInput.pdb
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ConsolInput.dll
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/refint/ConsolInput.dll
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ConsolInput.pdb
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ConsolInput.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/ZTM/ConsolInput/obj/Debug/net8.0/ref/ConsolInput.dll

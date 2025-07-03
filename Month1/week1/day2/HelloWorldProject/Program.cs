@@ -4,23 +4,18 @@
 
 using System;
 
-class Program
-{
-    static void Main(String[] args)
-    {
-        Console.WriteLine("Enter the first Number: ");
-        String input1 = Console.ReadLine();
+Console.WriteLine("Enter the first Number: ");
+String input1 = Console.ReadLine();
 
-        int num1 = int.Parse(input1);
+int num1 = int.Parse(input1);
 
-        Console.WriteLine("Enter the second number: ");
 
-        String input2 = Console.ReadLine();
+Console.WriteLine("Enter the second number: ");
 
-        int num2 = int.Parse(input2);
+String input2 = Console.ReadLine();
 
-        int result = num1 + num2;
+int num2 = int.Parse(input2);
 
-        Console.WriteLine($"The result is {result}");
-    }
-}
+int result = num1 + num2;
+
+Console.WriteLine($"The result is {result}");
