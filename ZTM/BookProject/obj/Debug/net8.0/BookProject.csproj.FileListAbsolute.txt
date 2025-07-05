@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/bin/Debug/net8.0/BookProject
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/bin/Debug/net8.0/BookProject.deps.json
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/bin/Debug/net8.0/BookProject.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/bin/Debug/net8.0/BookProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/bin/Debug/net8.0/BookProject.pdb
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/BookProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/BookProject.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/BookProject.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/BookProject.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/BookProject.sourcelink.json
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/BookProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/refint/BookProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/BookProject.pdb
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/BookProject.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/ZTM/BookProject/obj/Debug/net8.0/ref/BookProject.dll

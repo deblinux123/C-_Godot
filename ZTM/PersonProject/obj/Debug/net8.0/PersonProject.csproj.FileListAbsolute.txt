@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/bin/Debug/net8.0/PersonProject
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/bin/Debug/net8.0/PersonProject.deps.json
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/bin/Debug/net8.0/PersonProject.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/bin/Debug/net8.0/PersonProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/bin/Debug/net8.0/PersonProject.pdb
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/PersonProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/PersonProject.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/PersonProject.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/PersonProject.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/PersonProject.sourcelink.json
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/PersonProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/refint/PersonProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/PersonProject.pdb
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/PersonProject.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/ZTM/PersonProject/obj/Debug/net8.0/ref/PersonProject.dll
