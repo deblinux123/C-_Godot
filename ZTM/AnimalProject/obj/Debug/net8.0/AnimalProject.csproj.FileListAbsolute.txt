@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/bin/Debug/net8.0/AnimalProject
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/bin/Debug/net8.0/AnimalProject.deps.json
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/bin/Debug/net8.0/AnimalProject.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/bin/Debug/net8.0/AnimalProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/bin/Debug/net8.0/AnimalProject.pdb
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/AnimalProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/AnimalProject.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/AnimalProject.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/AnimalProject.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/AnimalProject.sourcelink.json
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/AnimalProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/refint/AnimalProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/AnimalProject.pdb
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/AnimalProject.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/ZTM/AnimalProject/obj/Debug/net8.0/ref/AnimalProject.dll

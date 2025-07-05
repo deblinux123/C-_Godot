@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/bin/Debug/net8.0/InheritenceProject
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/bin/Debug/net8.0/InheritenceProject.deps.json
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/bin/Debug/net8.0/InheritenceProject.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/bin/Debug/net8.0/InheritenceProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/bin/Debug/net8.0/InheritenceProject.pdb
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/InheritenceProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/InheritenceProject.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/InheritenceProject.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/InheritenceProject.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/InheritenceProject.sourcelink.json
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/InheritenceProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/refint/InheritenceProject.dll
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/InheritenceProject.pdb
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/InheritenceProject.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/ZTM/InheritenceProject/obj/Debug/net8.0/ref/InheritenceProject.dll
