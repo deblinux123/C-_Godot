@@ -1,0 +1,15 @@
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/bin/Debug/net8.0/EnumtypeProjct
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/bin/Debug/net8.0/EnumtypeProjct.deps.json
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/bin/Debug/net8.0/EnumtypeProjct.runtimeconfig.json
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/bin/Debug/net8.0/EnumtypeProjct.dll
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/bin/Debug/net8.0/EnumtypeProjct.pdb
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/EnumtypeProjct.GeneratedMSBuildEditorConfig.editorconfig
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/EnumtypeProjct.AssemblyInfoInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/EnumtypeProjct.AssemblyInfo.cs
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/EnumtypeProjct.csproj.CoreCompileInputs.cache
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/EnumtypeProjct.sourcelink.json
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/EnumtypeProjct.dll
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/refint/EnumtypeProjct.dll
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/EnumtypeProjct.pdb
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/EnumtypeProjct.genruntimeconfig.cache
+/home/toor/Desktop/C-_Godot/ZTM/EnumtypeProjct/obj/Debug/net8.0/ref/EnumtypeProjct.dll
